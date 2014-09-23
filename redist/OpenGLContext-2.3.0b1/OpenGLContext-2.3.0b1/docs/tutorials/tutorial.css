@@ -1,0 +1,93 @@
+/* OpenGLContext shader tutorial stylesheet */
+
+body {
+	background-color: #FFFFFF; 
+	color: #000000;
+	font-family: Arial, Helvetica;
+	margin: 0;
+}
+a:link {
+	color: #3333e0;
+	text-decoration: none;
+}
+a:visited {
+	color: #1111aa;
+	text-decoration: none;
+}
+a:active {
+	color: #111133;
+	text-decoration: none;
+}
+.navtable {
+	background-image: url(../images/greypinstripe.png);
+}
+h1,h2,h3 {
+	color: #111144;
+	background-image: url(../images/greypinstripe.png);
+	font-size: 110%;
+}
+h1 {
+	border-top-style: solid; 
+	border-top-width: 1 
+	padding: .25em;
+	margin: 0;
+}
+
+.commentary {
+	background-color: #f7f7f7;
+	margin: 2em;
+	padding: 1em;
+	border: thin blue solid;
+}
+.commentary div {
+	margin-top: .5em;
+	margin-bottom: .5em;
+}
+
+.code-sample {
+	background-color: #ffffcc; 
+	color: black;
+	white-space: pre;
+	margin-left: 3em;
+	margin-right: 3em;
+	margin-top: .5em;
+	margin-bottom: .5em;
+}
+
+a {
+	text-decoration: none;
+	color: cyan;
+}
+.metadata {
+	margin-top: 2em;
+	font-size: 50%;
+}
+
+img.wiki {
+	float: right;
+	border: thin solid black;
+}
+
+div.path {
+	padding-bottom: 2em;
+}
+.meta-links td {
+	text-align: center;
+}
+
+.source-reference {
+	margin-left: 3em;
+	margin-right: 3em;
+	text-align: center;
+	font-size: 80%;
+	color: grey;
+}
+
+.introduction {
+	margin: 1em;
+	color: darkgrey;
+}
+.path-body {
+	margin-left: .5em;
+	margin-right: .5em;
+}

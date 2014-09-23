@@ -1,0 +1,2 @@
+These files are ment for the devs to use to install the python libs to their machines.
+We did not make this code, nor do we claim to own it, the respective owners of these works do own their pieces of code, not us.
