@@ -34,5 +34,4 @@ Python Voxel Block Simulation Game 2014 ;^)
 
 ##Dependencies
 
-- Python 2.7
-- List more dependencies here.
+- None. It will all be made portable (put it on a USB stick or something)
