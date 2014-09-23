@@ -1,5 +1,6 @@
 import pygame
 import sys
+import os
 from lib import test_game_core
 
 class game(object):
@@ -23,10 +24,10 @@ game.config_keymap = {
 def main(launcher_vars):
     
     pygame.init()
+    icon_path = os.path.join(launcher_vars["texture"],"icon.png")
+    seticon(icon_path)
     screen = pygame.display.set_mode([800, 600], pygame.OPENGL | pygame.DOUBLEBUF)
     print(pygame.display.Info())
-    icon_path = os.path.join(launcher_vars["texture"],"icon.ico")
-    pygame.display.set_icon(icon_path) #sets the icon for the game
     pygame.display.set_caption("PyMine")
     while 1:
         for event in pygame.event.get():
@@ -48,3 +49,21 @@ def main(launcher_vars):
                     sys.exit()
     print("this is from the maingame file")
     test_game_core.main()
+
+def seticon(iconname):
+    """
+    give an iconname, a bitmap sized 32x32 pixels, black (0,0,0) will be alpha channel
+    
+    the windowicon will be set to the bitmap, but the black pixels will be full alpha channel
+     
+    can only be called once after pygame.init() and before somewindow = pygame.display.set_mode()
+    """
+    #i borrowed this from the pygame comments on the set icon function, thanks anon!
+    icon=pygame.Surface((256,256))
+    icon.set_colorkey((0,0,0))
+    rawicon=pygame.image.load(iconname)
+    for i in range(0,256):
+        for j in range(0,256):
+            icon.set_at((i,j), rawicon.get_at((i,j)))
+    pygame.display.set_icon(icon)
+    
