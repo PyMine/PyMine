@@ -1,7 +1,9 @@
 import pygame
 import sys
 import os
+import math
 from lib import test_game_core
+from OpenGL import GL
 
 class game(object):
     # small hack thing for the moment so i can do some testing to get
@@ -22,14 +24,15 @@ game.config_keymap = {
 }
 
 def main(launcher_vars):
-    
     pygame.init()
+    os.environ['SDL_VIDEO_CENTERED'] = '1'
     icon_path = os.path.join(launcher_vars["texture"],"icon.png")
     seticon(icon_path)
-    screen = pygame.display.set_mode([800, 600], pygame.OPENGL | pygame.DOUBLEBUF)
+    screen = pygame.display.set_mode([800, 600],pygame.HWSURFACE | pygame.OPENGL | pygame.DOUBLEBUF | pygame.RESIZABLE)
+    MyClock = pygame.time.Clock()
     print(pygame.display.Info())
     pygame.display.set_caption("PyMine")
-    while 1:
+    while 1: # main loop.
         for event in pygame.event.get():
             key=pygame.key.get_pressed()
             if event.type == pygame.KEYDOWN or event.type == pygame.KEYUP:
@@ -47,6 +50,9 @@ def main(launcher_vars):
             
             if event.type == pygame.QUIT:
                     sys.exit()
+            elif event.type == pygame.VIDEORESIZE:
+                #MyGL.reshape(*event.size) #openGL function needs to go here instead of MyGL 
+        MyClock.tick(65)
     print("this is from the maingame file")
     test_game_core.main()
 
