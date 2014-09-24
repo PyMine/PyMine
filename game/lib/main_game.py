@@ -29,6 +29,7 @@ def main(launcher_vars):
     icon_path = os.path.join(launcher_vars["texture"],"icon.png")
     seticon(icon_path)
     screen = pygame.display.set_mode([800, 600],pygame.HWSURFACE | pygame.OPENGL | pygame.DOUBLEBUF | pygame.RESIZABLE)
+    
     MyClock = pygame.time.Clock()
     print(pygame.display.Info())
     pygame.display.set_caption("PyMine")
@@ -52,7 +53,7 @@ def main(launcher_vars):
                     sys.exit()
             elif event.type == pygame.VIDEORESIZE:
                 #MyGL.reshape(*event.size) #openGL function needs to go here instead of MyGL 
-        MyClock.tick(65)
+                MyClock.tick(65)
     print("this is from the maingame file")
     test_game_core.main()
 
