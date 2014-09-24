@@ -28,12 +28,7 @@ def main(launcher_vars):
     os.environ['SDL_VIDEO_CENTERED'] = '1'
     icon_path = os.path.join(launcher_vars["texture"],"icon.png")
     seticon(icon_path)
-<<<<<<< HEAD
     screen = pygame.display.set_mode([800, 600], pygame.HWSURFACE | pygame.OPENGL | pygame.DOUBLEBUF | pygame.RESIZABLE)
-=======
-    screen = pygame.display.set_mode([800, 600],pygame.HWSURFACE | pygame.OPENGL | pygame.DOUBLEBUF | pygame.RESIZABLE)
-    
->>>>>>> fa847169598157ff1b99ab6c45e23f78a6b6b050
     MyClock = pygame.time.Clock()
     print(pygame.display.Info())
     pygame.display.set_caption("PyMine")
@@ -57,7 +52,7 @@ def main(launcher_vars):
                     sys.exit()
             #elif event.type == pygame.VIDEORESIZE:
                 #MyGL.reshape(*event.size) #openGL function needs to go here instead of MyGL 
-                MyClock.tick(65)
+            MyClock.tick(65)
     print("this is from the maingame file")
     test_game_core.main()
 
