@@ -20,6 +20,7 @@ from lib import main_game
 
 print("this is from the launcher")
 launcher_vars = {
+"base" : current_dir,
 "game" : game_path,
 "texture" : texture_path,
 "save" : save_path,
