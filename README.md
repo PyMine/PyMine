@@ -34,4 +34,11 @@ Python Voxel Block Simulation Game 2014 ;^)
 
 ##Dependencies
 
-- None. It will all be made portable (put it on a USB stick or something)
+- This will all be made portable (put it on a USB stick or something)
+* OpenGLContext-2.3.0b1
+* PyOpenGL-3.1.0b3
+* PyOpenGL-Demo-3.0.1b1
+* PyOpenGL-accelerate-3.1.0b3
+* Pygame
+
+
