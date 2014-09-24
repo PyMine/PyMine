@@ -52,7 +52,7 @@ def main(launcher_vars):
                     sys.exit()
             elif event.type == pygame.VIDEORESIZE:
                 #MyGL.reshape(*event.size) #openGL function needs to go here instead of MyGL 
-                
+        MyClock.tick(65)
     print("this is from the maingame file")
     test_game_core.main()
 
