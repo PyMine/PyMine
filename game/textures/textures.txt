@@ -1,3 +1,5 @@
 1: Dirt Block with grass side
 2: Dirt Block
 3: Grass Block
+4: Stone Machine Side
+5: Furnace Face (off)
