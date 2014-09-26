@@ -4,7 +4,8 @@ Python Voxel Block Simulation Game 2014 ;^)
 
 ##Information
 
-- Add something here.
+- Add something here
+- 
 
 ##Screenshots
 
