@@ -2,6 +2,8 @@ PyMine
 ======
 Python Voxel Block Simulation Game 2014 ;^)
 
+![PyMine Logo](http://a.pomf.se/qhritq.png "PyMine Logo")
+
 ##Information
 
 - Add something here
