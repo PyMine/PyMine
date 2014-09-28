@@ -8,8 +8,8 @@ from OpenGL.GL.shaders import compileProgram,compileShader
 import pygame as pg,sys,os
 
 VERTICES = [ 0.50,  0.55,  0.0,  1.0,
-             0.75, -0.75,  0.9,  1.0,
-            -0.75, -0.75,  0.0,  1.0]
+             0.75, -0.75,  1.1,  1.0,
+            -0.35, -0.96,  0.8,  1.0]
 
 SIZE_FLOAT = VERT_COMPONENTS = 4
 #vertical components of the shape
