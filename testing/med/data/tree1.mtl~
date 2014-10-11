@@ -1,0 +1,7472 @@
+# Material file for tree1.obj
+
+newmtl wood
+	Ns 0
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.36 0.41 0.43
+	map_Kd gfx\textures\wood.png
+
+newmtl leaves
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.2 0.2 0.2
+	map_Kd gfx\textures\leaves.png
+
+newmtl wood
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.36 0.41 0.43
+	map_Kd gfx\textures\wood.png
+
+newmtl wood
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.36 0.41 0.43
+	map_Kd gfx\textures\wood.png
+
+newmtl leaves
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.2 0.2 0.2
+	map_Kd gfx\textures\leaves.png
+
+newmtl wood
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.36 0.41 0.43
+	map_Kd gfx\textures\wood.png
+
+newmtl leaves
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.2 0.2 0.2
+	map_Kd gfx\textures\leaves.png
+
+newmtl leaves
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.2 0.2 0.2
+	map_Kd gfx\textures\leaves.png
+
+newmtl wood
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.36 0.41 0.43
+	map_Kd gfx\textures\wood.png
+
+newmtl leaves
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.2 0.2 0.2
+	map_Kd gfx\textures\leaves.png
+
+newmtl wood
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.36 0.41 0.43
+	map_Kd gfx\textures\wood.png
+
+newmtl leaves
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.2 0.2 0.2
+	map_Kd gfx\textures\leaves.png
+
+newmtl wood
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.36 0.41 0.43
+	map_Kd gfx\textures\wood.png
+
+newmtl leaves
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.2 0.2 0.2
+	map_Kd gfx\textures\leaves.png
+
+newmtl wood
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.36 0.41 0.43
+	map_Kd gfx\textures\wood.png
+
+newmtl leaves
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.2 0.2 0.2
+	map_Kd gfx\textures\leaves.png
+
+newmtl wood
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.36 0.41 0.43
+	map_Kd gfx\textures\wood.png
+
+newmtl leaves
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.2 0.2 0.2
+	map_Kd gfx\textures\leaves.png
+
+newmtl wood
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.36 0.41 0.43
+	map_Kd gfx\textures\wood.png
+
+newmtl leaves
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.2 0.2 0.2
+	map_Kd gfx\textures\leaves.png
+
+newmtl wood
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.36 0.41 0.43
+	map_Kd gfx\textures\wood.png
+
+newmtl leaves
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.2 0.2 0.2
+	map_Kd gfx\textures\leaves.png
+
+newmtl wood
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.36 0.41 0.43
+	map_Kd gfx\textures\wood.png
+
+newmtl leaves
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.2 0.2 0.2
+	map_Kd gfx\textures\leaves.png
+
+newmtl wood
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.36 0.41 0.43
+	map_Kd gfx\textures\wood.png
+
+newmtl leaves
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.2 0.2 0.2
+	map_Kd gfx\textures\leaves.png
+
+newmtl wood
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.36 0.41 0.43
+	map_Kd gfx\textures\wood.png
+
+newmtl leaves
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.2 0.2 0.2
+	map_Kd gfx\textures\leaves.png
+
+newmtl wood
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.36 0.41 0.43
+	map_Kd gfx\textures\wood.png
+
+newmtl leaves
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.2 0.2 0.2
+	map_Kd gfx\textures\leaves.png
+
+newmtl wood
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.36 0.41 0.43
+	map_Kd gfx\textures\wood.png
+
+newmtl leaves
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.2 0.2 0.2
+	map_Kd gfx\textures\leaves.png
+
+newmtl wood
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.36 0.41 0.43
+	map_Kd gfx\textures\wood.png
+
+newmtl leaves
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.2 0.2 0.2
+	map_Kd gfx\textures\leaves.png
+
+newmtl wood
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.36 0.41 0.43
+	map_Kd gfx\textures\wood.png
+
+newmtl leaves
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.2 0.2 0.2
+	map_Kd gfx\textures\leaves.png
+
+newmtl wood
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.36 0.41 0.43
+	map_Kd gfx\textures\wood.png
+
+newmtl leaves
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.2 0.2 0.2
+	map_Kd gfx\textures\leaves.png
+
+newmtl wood
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.36 0.41 0.43
+	map_Kd gfx\textures\wood.png
+
+newmtl leaves
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.2 0.2 0.2
+	map_Kd gfx\textures\leaves.png
+
+newmtl wood
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.36 0.41 0.43
+	map_Kd gfx\textures\wood.png
+
+newmtl leaves
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.2 0.2 0.2
+	map_Kd gfx\textures\leaves.png
+
+newmtl wood
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.36 0.41 0.43
+	map_Kd gfx\textures\wood.png
+
+newmtl leaves
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.2 0.2 0.2
+	map_Kd gfx\textures\leaves.png
+
+newmtl wood
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.36 0.41 0.43
+	map_Kd gfx\textures\wood.png
+
+newmtl leaves
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.2 0.2 0.2
+	map_Kd gfx\textures\leaves.png
+
+newmtl wood
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.36 0.41 0.43
+	map_Kd gfx\textures\wood.png
+
+newmtl leaves
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.2 0.2 0.2
+	map_Kd gfx\textures\leaves.png
+
+newmtl wood
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.36 0.41 0.43
+	map_Kd gfx\textures\wood.png
+
+newmtl leaves
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.2 0.2 0.2
+	map_Kd gfx\textures\leaves.png
+
+newmtl wood
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.36 0.41 0.43
+	map_Kd gfx\textures\wood.png
+
+newmtl leaves
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.2 0.2 0.2
+	map_Kd gfx\textures\leaves.png
+
+newmtl wood
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.36 0.41 0.43
+	map_Kd gfx\textures\wood.png
+
+newmtl leaves
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.2 0.2 0.2
+	map_Kd gfx\textures\leaves.png
+
+newmtl wood
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.36 0.41 0.43
+	map_Kd gfx\textures\wood.png
+
+newmtl leaves
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.2 0.2 0.2
+	map_Kd gfx\textures\leaves.png
+
+newmtl wood
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.36 0.41 0.43
+	map_Kd gfx\textures\wood.png
+
+newmtl leaves
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.2 0.2 0.2
+	map_Kd gfx\textures\leaves.png
+
+newmtl wood
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.36 0.41 0.43
+	map_Kd gfx\textures\wood.png
+
+newmtl leaves
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.2 0.2 0.2
+	map_Kd gfx\textures\leaves.png
+
+newmtl wood
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.36 0.41 0.43
+	map_Kd gfx\textures\wood.png
+
+newmtl leaves
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.2 0.2 0.2
+	map_Kd gfx\textures\leaves.png
+
+newmtl wood
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.36 0.41 0.43
+	map_Kd gfx\textures\wood.png
+
+newmtl leaves
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.2 0.2 0.2
+	map_Kd gfx\textures\leaves.png
+
+newmtl wood
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.36 0.41 0.43
+	map_Kd gfx\textures\wood.png
+
+newmtl leaves
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.2 0.2 0.2
+	map_Kd gfx\textures\leaves.png
+
+newmtl wood
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.36 0.41 0.43
+	map_Kd gfx\textures\wood.png
+
+newmtl leaves
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.2 0.2 0.2
+	map_Kd gfx\textures\leaves.png
+
+newmtl wood
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.36 0.41 0.43
+	map_Kd gfx\textures\wood.png
+
+newmtl leaves
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.2 0.2 0.2
+	map_Kd gfx\textures\leaves.png
+
+newmtl wood
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.36 0.41 0.43
+	map_Kd gfx\textures\wood.png
+
+newmtl leaves
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.2 0.2 0.2
+	map_Kd gfx\textures\leaves.png
+
+newmtl wood
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.36 0.41 0.43
+	map_Kd gfx\textures\wood.png
+
+newmtl leaves
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.2 0.2 0.2
+	map_Kd gfx\textures\leaves.png
+
+newmtl wood
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.36 0.41 0.43
+	map_Kd gfx\textures\wood.png
+
+newmtl leaves
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.2 0.2 0.2
+	map_Kd gfx\textures\leaves.png
+
+newmtl wood
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.36 0.41 0.43
+	map_Kd gfx\textures\wood.png
+
+newmtl leaves
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.2 0.2 0.2
+	map_Kd gfx\textures\leaves.png
+
+newmtl wood
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.36 0.41 0.43
+	map_Kd gfx\textures\wood.png
+
+newmtl leaves
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.2 0.2 0.2
+	map_Kd gfx\textures\leaves.png
+
+newmtl wood
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.36 0.41 0.43
+	map_Kd gfx\textures\wood.png
+
+newmtl leaves
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.2 0.2 0.2
+	map_Kd gfx\textures\leaves.png
+
+newmtl wood
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.36 0.41 0.43
+	map_Kd gfx\textures\wood.png
+
+newmtl leaves
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.2 0.2 0.2
+	map_Kd gfx\textures\leaves.png
+
+newmtl wood
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.36 0.41 0.43
+	map_Kd gfx\textures\wood.png
+
+newmtl leaves
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.2 0.2 0.2
+	map_Kd gfx\textures\leaves.png
+
+newmtl wood
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.36 0.41 0.43
+	map_Kd gfx\textures\wood.png
+
+newmtl leaves
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.2 0.2 0.2
+	map_Kd gfx\textures\leaves.png
+
+newmtl wood
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.36 0.41 0.43
+	map_Kd gfx\textures\wood.png
+
+newmtl leaves
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.2 0.2 0.2
+	map_Kd gfx\textures\leaves.png
+
+newmtl wood
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.36 0.41 0.43
+	map_Kd gfx\textures\wood.png
+
+newmtl leaves
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.2 0.2 0.2
+	map_Kd gfx\textures\leaves.png
+
+newmtl wood
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.36 0.41 0.43
+	map_Kd gfx\textures\wood.png
+
+newmtl leaves
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.2 0.2 0.2
+	map_Kd gfx\textures\leaves.png
+
+newmtl wood
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.36 0.41 0.43
+	map_Kd gfx\textures\wood.png
+
+newmtl leaves
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.2 0.2 0.2
+	map_Kd gfx\textures\leaves.png
+
+newmtl wood
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.36 0.41 0.43
+	map_Kd gfx\textures\wood.png
+
+newmtl leaves
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.2 0.2 0.2
+	map_Kd gfx\textures\leaves.png
+
+newmtl wood
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.36 0.41 0.43
+	map_Kd gfx\textures\wood.png
+
+newmtl leaves
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.2 0.2 0.2
+	map_Kd gfx\textures\leaves.png
+
+newmtl wood
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.36 0.41 0.43
+	map_Kd gfx\textures\wood.png
+
+newmtl leaves
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.2 0.2 0.2
+	map_Kd gfx\textures\leaves.png
+
+newmtl wood
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.36 0.41 0.43
+	map_Kd gfx\textures\wood.png
+
+newmtl leaves
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.2 0.2 0.2
+	map_Kd gfx\textures\leaves.png
+
+newmtl wood
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.36 0.41 0.43
+	map_Kd gfx\textures\wood.png
+
+newmtl leaves
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.2 0.2 0.2
+	map_Kd gfx\textures\leaves.png
+
+newmtl wood
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.36 0.41 0.43
+	map_Kd gfx\textures\wood.png
+
+newmtl leaves
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.2 0.2 0.2
+	map_Kd gfx\textures\leaves.png
+
+newmtl wood
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.36 0.41 0.43
+	map_Kd gfx\textures\wood.png
+
+newmtl leaves
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.2 0.2 0.2
+	map_Kd gfx\textures\leaves.png
+
+newmtl wood
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.36 0.41 0.43
+	map_Kd gfx\textures\wood.png
+
+newmtl leaves
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.2 0.2 0.2
+	map_Kd gfx\textures\leaves.png
+
+newmtl wood
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.36 0.41 0.43
+	map_Kd gfx\textures\wood.png
+
+newmtl leaves
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.2 0.2 0.2
+	map_Kd gfx\textures\leaves.png
+
+newmtl wood
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.36 0.41 0.43
+	map_Kd gfx\textures\wood.png
+
+newmtl leaves
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.2 0.2 0.2
+	map_Kd gfx\textures\leaves.png
+
+newmtl wood
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.36 0.41 0.43
+	map_Kd gfx\textures\wood.png
+
+newmtl leaves
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.2 0.2 0.2
+	map_Kd gfx\textures\leaves.png
+
+newmtl wood
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.36 0.41 0.43
+	map_Kd gfx\textures\wood.png
+
+newmtl leaves
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.2 0.2 0.2
+	map_Kd gfx\textures\leaves.png
+
+newmtl wood
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.36 0.41 0.43
+	map_Kd gfx\textures\wood.png
+
+newmtl leaves
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.2 0.2 0.2
+	map_Kd gfx\textures\leaves.png
+
+newmtl wood
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.36 0.41 0.43
+	map_Kd gfx\textures\wood.png
+
+newmtl leaves
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.2 0.2 0.2
+	map_Kd gfx\textures\leaves.png
+
+newmtl wood
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.36 0.41 0.43
+	map_Kd gfx\textures\wood.png
+
+newmtl leaves
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.2 0.2 0.2
+	map_Kd gfx\textures\leaves.png
+
+newmtl wood
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.36 0.41 0.43
+	map_Kd gfx\textures\wood.png
+
+newmtl leaves
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.2 0.2 0.2
+	map_Kd gfx\textures\leaves.png
+
+newmtl wood
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.36 0.41 0.43
+	map_Kd gfx\textures\wood.png
+
+newmtl leaves
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.2 0.2 0.2
+	map_Kd gfx\textures\leaves.png
+
+newmtl wood
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.36 0.41 0.43
+	map_Kd gfx\textures\wood.png
+
+newmtl leaves
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.2 0.2 0.2
+	map_Kd gfx\textures\leaves.png
+
+newmtl wood
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.36 0.41 0.43
+	map_Kd gfx\textures\wood.png
+
+newmtl leaves
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.2 0.2 0.2
+	map_Kd gfx\textures\leaves.png
+
+newmtl wood
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.36 0.41 0.43
+	map_Kd gfx\textures\wood.png
+
+newmtl leaves
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.2 0.2 0.2
+	map_Kd gfx\textures\leaves.png
+
+newmtl wood
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.36 0.41 0.43
+	map_Kd gfx\textures\wood.png
+
+newmtl leaves
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.2 0.2 0.2
+	map_Kd gfx\textures\leaves.png
+
+newmtl wood
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.36 0.41 0.43
+	map_Kd gfx\textures\wood.png
+
+newmtl leaves
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.2 0.2 0.2
+	map_Kd gfx\textures\leaves.png
+
+newmtl wood
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.36 0.41 0.43
+	map_Kd gfx\textures\wood.png
+
+newmtl leaves
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.2 0.2 0.2
+	map_Kd gfx\textures\leaves.png
+
+newmtl wood
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.36 0.41 0.43
+	map_Kd gfx\textures\wood.png
+
+newmtl leaves
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.2 0.2 0.2
+	map_Kd gfx\textures\leaves.png
+
+newmtl wood
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.36 0.41 0.43
+	map_Kd gfx\textures\wood.png
+
+newmtl leaves
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.2 0.2 0.2
+	map_Kd gfx\textures\leaves.png
+
+newmtl wood
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.36 0.41 0.43
+	map_Kd gfx\textures\wood.png
+
+newmtl leaves
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.2 0.2 0.2
+	map_Kd gfx\textures\leaves.png
+
+newmtl wood
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.36 0.41 0.43
+	map_Kd gfx\textures\wood.png
+
+newmtl leaves
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.2 0.2 0.2
+	map_Kd gfx\textures\leaves.png
+
+newmtl wood
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.36 0.41 0.43
+	map_Kd gfx\textures\wood.png
+
+newmtl leaves
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.2 0.2 0.2
+	map_Kd gfx\textures\leaves.png
+
+newmtl wood
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.36 0.41 0.43
+	map_Kd gfx\textures\wood.png
+
+newmtl leaves
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.2 0.2 0.2
+	map_Kd gfx\textures\leaves.png
+
+newmtl wood
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.36 0.41 0.43
+	map_Kd gfx\textures\wood.png
+
+newmtl leaves
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.2 0.2 0.2
+	map_Kd gfx\textures\leaves.png
+
+newmtl wood
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.36 0.41 0.43
+	map_Kd gfx\textures\wood.png
+
+newmtl leaves
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.2 0.2 0.2
+	map_Kd gfx\textures\leaves.png
+
+newmtl wood
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.36 0.41 0.43
+	map_Kd gfx\textures\wood.png
+
+newmtl leaves
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.2 0.2 0.2
+	map_Kd gfx\textures\leaves.png
+
+newmtl wood
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.36 0.41 0.43
+	map_Kd gfx\textures\wood.png
+
+newmtl leaves
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.2 0.2 0.2
+	map_Kd gfx\textures\leaves.png
+
+newmtl wood
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.36 0.41 0.43
+	map_Kd gfx\textures\wood.png
+
+newmtl leaves
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.2 0.2 0.2
+	map_Kd gfx\textures\leaves.png
+
+newmtl wood
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.36 0.41 0.43
+	map_Kd gfx\textures\wood.png
+
+newmtl leaves
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.2 0.2 0.2
+	map_Kd gfx\textures\leaves.png
+
+newmtl wood
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.36 0.41 0.43
+	map_Kd gfx\textures\wood.png
+
+newmtl leaves
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.2 0.2 0.2
+	map_Kd gfx\textures\leaves.png
+
+newmtl wood
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.36 0.41 0.43
+	map_Kd gfx\textures\wood.png
+
+newmtl leaves
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.2 0.2 0.2
+	map_Kd gfx\textures\leaves.png
+
+newmtl wood
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.36 0.41 0.43
+	map_Kd gfx\textures\wood.png
+
+newmtl leaves
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.2 0.2 0.2
+	map_Kd gfx\textures\leaves.png
+
+newmtl wood
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.36 0.41 0.43
+	map_Kd gfx\textures\wood.png
+
+newmtl leaves
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.2 0.2 0.2
+	map_Kd gfx\textures\leaves.png
+
+newmtl wood
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.36 0.41 0.43
+	map_Kd gfx\textures\wood.png
+
+newmtl leaves
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.2 0.2 0.2
+	map_Kd gfx\textures\leaves.png
+
+newmtl wood
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.36 0.41 0.43
+	map_Kd gfx\textures\wood.png
+
+newmtl leaves
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.2 0.2 0.2
+	map_Kd gfx\textures\leaves.png
+
+newmtl wood
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.36 0.41 0.43
+	map_Kd gfx\textures\wood.png
+
+newmtl leaves
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.2 0.2 0.2
+	map_Kd gfx\textures\leaves.png
+
+newmtl wood
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.36 0.41 0.43
+	map_Kd gfx\textures\wood.png
+
+newmtl leaves
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.2 0.2 0.2
+	map_Kd gfx\textures\leaves.png
+
+newmtl wood
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.36 0.41 0.43
+	map_Kd gfx\textures\wood.png
+
+newmtl leaves
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.2 0.2 0.2
+	map_Kd gfx\textures\leaves.png
+
+newmtl wood
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.36 0.41 0.43
+	map_Kd gfx\textures\wood.png
+
+newmtl leaves
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.2 0.2 0.2
+	map_Kd gfx\textures\leaves.png
+
+newmtl wood
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.36 0.41 0.43
+	map_Kd gfx\textures\wood.png
+
+newmtl leaves
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.2 0.2 0.2
+	map_Kd gfx\textures\leaves.png
+
+newmtl wood
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.36 0.41 0.43
+	map_Kd gfx\textures\wood.png
+
+newmtl leaves
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.2 0.2 0.2
+	map_Kd gfx\textures\leaves.png
+
+newmtl wood
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.36 0.41 0.43
+	map_Kd gfx\textures\wood.png
+
+newmtl leaves
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.2 0.2 0.2
+	map_Kd gfx\textures\leaves.png
+
+newmtl wood
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.36 0.41 0.43
+	map_Kd gfx\textures\wood.png
+
+newmtl leaves
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.2 0.2 0.2
+	map_Kd gfx\textures\leaves.png
+
+newmtl wood
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.36 0.41 0.43
+	map_Kd gfx\textures\wood.png
+
+newmtl leaves
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.2 0.2 0.2
+	map_Kd gfx\textures\leaves.png
+
+newmtl wood
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.36 0.41 0.43
+	map_Kd gfx\textures\wood.png
+
+newmtl leaves
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.2 0.2 0.2
+	map_Kd gfx\textures\leaves.png
+
+newmtl wood
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.36 0.41 0.43
+	map_Kd gfx\textures\wood.png
+
+newmtl leaves
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.2 0.2 0.2
+	map_Kd gfx\textures\leaves.png
+
+newmtl wood
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.36 0.41 0.43
+	map_Kd gfx\textures\wood.png
+
+newmtl leaves
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.2 0.2 0.2
+	map_Kd gfx\textures\leaves.png
+
+newmtl wood
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.36 0.41 0.43
+	map_Kd gfx\textures\wood.png
+
+newmtl leaves
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.2 0.2 0.2
+	map_Kd gfx\textures\leaves.png
+
+newmtl wood
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.36 0.41 0.43
+	map_Kd gfx\textures\wood.png
+
+newmtl leaves
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.2 0.2 0.2
+	map_Kd gfx\textures\leaves.png
+
+newmtl wood
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.36 0.41 0.43
+	map_Kd gfx\textures\wood.png
+
+newmtl leaves
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.2 0.2 0.2
+	map_Kd gfx\textures\leaves.png
+
+newmtl wood
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.36 0.41 0.43
+	map_Kd gfx\textures\wood.png
+
+newmtl leaves
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.2 0.2 0.2
+	map_Kd gfx\textures\leaves.png
+
+newmtl wood
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.36 0.41 0.43
+	map_Kd gfx\textures\wood.png
+
+newmtl leaves
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.2 0.2 0.2
+	map_Kd gfx\textures\leaves.png
+
+newmtl wood
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.36 0.41 0.43
+	map_Kd gfx\textures\wood.png
+
+newmtl leaves
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.2 0.2 0.2
+	map_Kd gfx\textures\leaves.png
+
+newmtl wood
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.36 0.41 0.43
+	map_Kd gfx\textures\wood.png
+
+newmtl leaves
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.2 0.2 0.2
+	map_Kd gfx\textures\leaves.png
+
+newmtl wood
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.36 0.41 0.43
+	map_Kd gfx\textures\wood.png
+
+newmtl leaves
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.2 0.2 0.2
+	map_Kd gfx\textures\leaves.png
+
+newmtl wood
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.36 0.41 0.43
+	map_Kd gfx\textures\wood.png
+
+newmtl leaves
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.2 0.2 0.2
+	map_Kd gfx\textures\leaves.png
+
+newmtl wood
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.36 0.41 0.43
+	map_Kd gfx\textures\wood.png
+
+newmtl leaves
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.2 0.2 0.2
+	map_Kd gfx\textures\leaves.png
+
+newmtl wood
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.36 0.41 0.43
+	map_Kd gfx\textures\wood.png
+
+newmtl leaves
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.2 0.2 0.2
+	map_Kd gfx\textures\leaves.png
+
+newmtl wood
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.36 0.41 0.43
+	map_Kd gfx\textures\wood.png
+
+newmtl leaves
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.2 0.2 0.2
+	map_Kd gfx\textures\leaves.png
+
+newmtl wood
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.36 0.41 0.43
+	map_Kd gfx\textures\wood.png
+
+newmtl leaves
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.2 0.2 0.2
+	map_Kd gfx\textures\leaves.png
+
+newmtl wood
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.36 0.41 0.43
+	map_Kd gfx\textures\wood.png
+
+newmtl leaves
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.2 0.2 0.2
+	map_Kd gfx\textures\leaves.png
+
+newmtl wood
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.36 0.41 0.43
+	map_Kd gfx\textures\wood.png
+
+newmtl leaves
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.2 0.2 0.2
+	map_Kd gfx\textures\leaves.png
+
+newmtl wood
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.36 0.41 0.43
+	map_Kd gfx\textures\wood.png
+
+newmtl leaves
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.2 0.2 0.2
+	map_Kd gfx\textures\leaves.png
+
+newmtl wood
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.36 0.41 0.43
+	map_Kd gfx\textures\wood.png
+
+newmtl leaves
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.2 0.2 0.2
+	map_Kd gfx\textures\leaves.png
+
+newmtl wood
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.36 0.41 0.43
+	map_Kd gfx\textures\wood.png
+
+newmtl leaves
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.2 0.2 0.2
+	map_Kd gfx\textures\leaves.png
+
+newmtl wood
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.36 0.41 0.43
+	map_Kd gfx\textures\wood.png
+
+newmtl leaves
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.2 0.2 0.2
+	map_Kd gfx\textures\leaves.png
+
+newmtl wood
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.36 0.41 0.43
+	map_Kd gfx\textures\wood.png
+
+newmtl leaves
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.2 0.2 0.2
+	map_Kd gfx\textures\leaves.png
+
+newmtl wood
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.36 0.41 0.43
+	map_Kd gfx\textures\wood.png
+
+newmtl leaves
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.2 0.2 0.2
+	map_Kd gfx\textures\leaves.png
+
+newmtl wood
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.36 0.41 0.43
+	map_Kd gfx\textures\wood.png
+
+newmtl leaves
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.2 0.2 0.2
+	map_Kd gfx\textures\leaves.png
+
+newmtl wood
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.36 0.41 0.43
+	map_Kd gfx\textures\wood.png
+
+newmtl leaves
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.2 0.2 0.2
+	map_Kd gfx\textures\leaves.png
+
+newmtl wood
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.36 0.41 0.43
+	map_Kd gfx\textures\wood.png
+
+newmtl leaves
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.2 0.2 0.2
+	map_Kd gfx\textures\leaves.png
+
+newmtl wood
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.36 0.41 0.43
+	map_Kd gfx\textures\wood.png
+
+newmtl leaves
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.2 0.2 0.2
+	map_Kd gfx\textures\leaves.png
+
+newmtl wood
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.36 0.41 0.43
+	map_Kd gfx\textures\wood.png
+
+newmtl leaves
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.2 0.2 0.2
+	map_Kd gfx\textures\leaves.png
+
+newmtl wood
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.36 0.41 0.43
+	map_Kd gfx\textures\wood.png
+
+newmtl leaves
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.2 0.2 0.2
+	map_Kd gfx\textures\leaves.png
+
+newmtl wood
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.36 0.41 0.43
+	map_Kd gfx\textures\wood.png
+
+newmtl leaves
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.2 0.2 0.2
+	map_Kd gfx\textures\leaves.png
+
+newmtl wood
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.36 0.41 0.43
+	map_Kd gfx\textures\wood.png
+
+newmtl leaves
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.2 0.2 0.2
+	map_Kd gfx\textures\leaves.png
+
+newmtl wood
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.36 0.41 0.43
+	map_Kd gfx\textures\wood.png
+
+newmtl leaves
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.2 0.2 0.2
+	map_Kd gfx\textures\leaves.png
+
+newmtl wood
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.36 0.41 0.43
+	map_Kd gfx\textures\wood.png
+
+newmtl leaves
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.2 0.2 0.2
+	map_Kd gfx\textures\leaves.png
+
+newmtl wood
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.36 0.41 0.43
+	map_Kd gfx\textures\wood.png
+
+newmtl leaves
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.2 0.2 0.2
+	map_Kd gfx\textures\leaves.png
+
+newmtl wood
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.36 0.41 0.43
+	map_Kd gfx\textures\wood.png
+
+newmtl leaves
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.2 0.2 0.2
+	map_Kd gfx\textures\leaves.png
+
+newmtl wood
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.36 0.41 0.43
+	map_Kd gfx\textures\wood.png
+
+newmtl leaves
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.2 0.2 0.2
+	map_Kd gfx\textures\leaves.png
+
+newmtl wood
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.36 0.41 0.43
+	map_Kd gfx\textures\wood.png
+
+newmtl leaves
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.2 0.2 0.2
+	map_Kd gfx\textures\leaves.png
+
+newmtl wood
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.36 0.41 0.43
+	map_Kd gfx\textures\wood.png
+
+newmtl leaves
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.2 0.2 0.2
+	map_Kd gfx\textures\leaves.png
+
+newmtl wood
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.36 0.41 0.43
+	map_Kd gfx\textures\wood.png
+
+newmtl leaves
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.2 0.2 0.2
+	map_Kd gfx\textures\leaves.png
+
+newmtl wood
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.36 0.41 0.43
+	map_Kd gfx\textures\wood.png
+
+newmtl leaves
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.2 0.2 0.2
+	map_Kd gfx\textures\leaves.png
+
+newmtl wood
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.36 0.41 0.43
+	map_Kd gfx\textures\wood.png
+
+newmtl leaves
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.2 0.2 0.2
+	map_Kd gfx\textures\leaves.png
+
+newmtl wood
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.36 0.41 0.43
+	map_Kd gfx\textures\wood.png
+
+newmtl leaves
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.2 0.2 0.2
+	map_Kd gfx\textures\leaves.png
+
+newmtl wood
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.36 0.41 0.43
+	map_Kd gfx\textures\wood.png
+
+newmtl leaves
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.2 0.2 0.2
+	map_Kd gfx\textures\leaves.png
+
+newmtl wood
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.36 0.41 0.43
+	map_Kd gfx\textures\wood.png
+
+newmtl leaves
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.2 0.2 0.2
+	map_Kd gfx\textures\leaves.png
+
+newmtl wood
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.36 0.41 0.43
+	map_Kd gfx\textures\wood.png
+
+newmtl leaves
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.2 0.2 0.2
+	map_Kd gfx\textures\leaves.png
+
+newmtl wood
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.36 0.41 0.43
+	map_Kd gfx\textures\wood.png
+
+newmtl leaves
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.2 0.2 0.2
+	map_Kd gfx\textures\leaves.png
+
+newmtl wood
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.36 0.41 0.43
+	map_Kd gfx\textures\wood.png
+
+newmtl leaves
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.2 0.2 0.2
+	map_Kd gfx\textures\leaves.png
+
+newmtl wood
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.36 0.41 0.43
+	map_Kd gfx\textures\wood.png
+
+newmtl leaves
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.2 0.2 0.2
+	map_Kd gfx\textures\leaves.png
+
+newmtl wood
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.36 0.41 0.43
+	map_Kd gfx\textures\wood.png
+
+newmtl leaves
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.2 0.2 0.2
+	map_Kd gfx\textures\leaves.png
+
+newmtl wood
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.36 0.41 0.43
+	map_Kd gfx\textures\wood.png
+
+newmtl leaves
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.2 0.2 0.2
+	map_Kd gfx\textures\leaves.png
+
+newmtl wood
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.36 0.41 0.43
+	map_Kd gfx\textures\wood.png
+
+newmtl leaves
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.2 0.2 0.2
+	map_Kd gfx\textures\leaves.png
+
+newmtl wood
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.36 0.41 0.43
+	map_Kd gfx\textures\wood.png
+
+newmtl leaves
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.2 0.2 0.2
+	map_Kd gfx\textures\leaves.png
+
+newmtl wood
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.36 0.41 0.43
+	map_Kd gfx\textures\wood.png
+
+newmtl leaves
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.2 0.2 0.2
+	map_Kd gfx\textures\leaves.png
+
+newmtl wood
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.36 0.41 0.43
+	map_Kd gfx\textures\wood.png
+
+newmtl leaves
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.2 0.2 0.2
+	map_Kd gfx\textures\leaves.png
+
+newmtl wood
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.36 0.41 0.43
+	map_Kd gfx\textures\wood.png
+
+newmtl leaves
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.2 0.2 0.2
+	map_Kd gfx\textures\leaves.png
+
+newmtl wood
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.36 0.41 0.43
+	map_Kd gfx\textures\wood.png
+
+newmtl leaves
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.2 0.2 0.2
+	map_Kd gfx\textures\leaves.png
+
+newmtl wood
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.36 0.41 0.43
+	map_Kd gfx\textures\wood.png
+
+newmtl leaves
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.2 0.2 0.2
+	map_Kd gfx\textures\leaves.png
+
+newmtl wood
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.36 0.41 0.43
+	map_Kd gfx\textures\wood.png
+
+newmtl leaves
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.2 0.2 0.2
+	map_Kd gfx\textures\leaves.png
+
+newmtl wood
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.36 0.41 0.43
+	map_Kd gfx\textures\wood.png
+
+newmtl leaves
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.2 0.2 0.2
+	map_Kd gfx\textures\leaves.png
+
+newmtl wood
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.36 0.41 0.43
+	map_Kd gfx\textures\wood.png
+
+newmtl leaves
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.2 0.2 0.2
+	map_Kd gfx\textures\leaves.png
+
+newmtl wood
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.36 0.41 0.43
+	map_Kd gfx\textures\wood.png
+
+newmtl leaves
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.2 0.2 0.2
+	map_Kd gfx\textures\leaves.png
+
+newmtl wood
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.36 0.41 0.43
+	map_Kd gfx\textures\wood.png
+
+newmtl leaves
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.2 0.2 0.2
+	map_Kd gfx\textures\leaves.png
+
+newmtl wood
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.36 0.41 0.43
+	map_Kd gfx\textures\wood.png
+
+newmtl leaves
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.2 0.2 0.2
+	map_Kd gfx\textures\leaves.png
+
+newmtl wood
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.36 0.41 0.43
+	map_Kd gfx\textures\wood.png
+
+newmtl leaves
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.2 0.2 0.2
+	map_Kd gfx\textures\leaves.png
+
+newmtl wood
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.36 0.41 0.43
+	map_Kd gfx\textures\wood.png
+
+newmtl leaves
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.2 0.2 0.2
+	map_Kd gfx\textures\leaves.png
+
+newmtl wood
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.36 0.41 0.43
+	map_Kd gfx\textures\wood.png
+
+newmtl leaves
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.2 0.2 0.2
+	map_Kd gfx\textures\leaves.png
+
+newmtl wood
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.36 0.41 0.43
+	map_Kd gfx\textures\wood.png
+
+newmtl leaves
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.2 0.2 0.2
+	map_Kd gfx\textures\leaves.png
+
+newmtl wood
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.36 0.41 0.43
+	map_Kd gfx\textures\wood.png
+
+newmtl leaves
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.2 0.2 0.2
+	map_Kd gfx\textures\leaves.png
+
+newmtl wood
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.36 0.41 0.43
+	map_Kd gfx\textures\wood.png
+
+newmtl leaves
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.2 0.2 0.2
+	map_Kd gfx\textures\leaves.png
+
+newmtl wood
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.36 0.41 0.43
+	map_Kd gfx\textures\wood.png
+
+newmtl leaves
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.2 0.2 0.2
+	map_Kd gfx\textures\leaves.png
+
+newmtl wood
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.36 0.41 0.43
+	map_Kd gfx\textures\wood.png
+
+newmtl leaves
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.2 0.2 0.2
+	map_Kd gfx\textures\leaves.png
+
+newmtl wood
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.36 0.41 0.43
+	map_Kd gfx\textures\wood.png
+
+newmtl leaves
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.2 0.2 0.2
+	map_Kd gfx\textures\leaves.png
+
+newmtl wood
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.36 0.41 0.43
+	map_Kd gfx\textures\wood.png
+
+newmtl leaves
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.2 0.2 0.2
+	map_Kd gfx\textures\leaves.png
+
+newmtl wood
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.36 0.41 0.43
+	map_Kd gfx\textures\wood.png
+
+newmtl leaves
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.2 0.2 0.2
+	map_Kd gfx\textures\leaves.png
+
+newmtl wood
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.36 0.41 0.43
+	map_Kd gfx\textures\wood.png
+
+newmtl leaves
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.2 0.2 0.2
+	map_Kd gfx\textures\leaves.png
+
+newmtl wood
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.36 0.41 0.43
+	map_Kd gfx\textures\wood.png
+
+newmtl leaves
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.2 0.2 0.2
+	map_Kd gfx\textures\leaves.png
+
+newmtl wood
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.36 0.41 0.43
+	map_Kd gfx\textures\wood.png
+
+newmtl leaves
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.2 0.2 0.2
+	map_Kd gfx\textures\leaves.png
+
+newmtl wood
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.36 0.41 0.43
+	map_Kd gfx\textures\wood.png
+
+newmtl leaves
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.2 0.2 0.2
+	map_Kd gfx\textures\leaves.png
+
+newmtl wood
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.36 0.41 0.43
+	map_Kd gfx\textures\wood.png
+
+newmtl leaves
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.2 0.2 0.2
+	map_Kd gfx\textures\leaves.png
+
+newmtl wood
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.36 0.41 0.43
+	map_Kd gfx\textures\wood.png
+
+newmtl leaves
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.2 0.2 0.2
+	map_Kd gfx\textures\leaves.png
+
+newmtl wood
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.36 0.41 0.43
+	map_Kd gfx\textures\wood.png
+
+newmtl leaves
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.2 0.2 0.2
+	map_Kd gfx\textures\leaves.png
+
+newmtl wood
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.36 0.41 0.43
+	map_Kd gfx\textures\wood.png
+
+newmtl leaves
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.2 0.2 0.2
+	map_Kd gfx\textures\leaves.png
+
+newmtl wood
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.36 0.41 0.43
+	map_Kd gfx\textures\wood.png
+
+newmtl leaves
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.2 0.2 0.2
+	map_Kd gfx\textures\leaves.png
+
+newmtl wood
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.36 0.41 0.43
+	map_Kd gfx\textures\wood.png
+
+newmtl leaves
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.2 0.2 0.2
+	map_Kd gfx\textures\leaves.png
+
+newmtl wood
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.36 0.41 0.43
+	map_Kd gfx\textures\wood.png
+
+newmtl leaves
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.2 0.2 0.2
+	map_Kd gfx\textures\leaves.png
+
+newmtl wood
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.36 0.41 0.43
+	map_Kd gfx\textures\wood.png
+
+newmtl leaves
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.2 0.2 0.2
+	map_Kd gfx\textures\leaves.png
+
+newmtl wood
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.36 0.41 0.43
+	map_Kd gfx\textures\wood.png
+
+newmtl leaves
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.2 0.2 0.2
+	map_Kd gfx\textures\leaves.png
+
+newmtl wood
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.36 0.41 0.43
+	map_Kd gfx\textures\wood.png
+
+newmtl leaves
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.2 0.2 0.2
+	map_Kd gfx\textures\leaves.png
+
+newmtl wood
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.36 0.41 0.43
+	map_Kd gfx\textures\wood.png
+
+newmtl leaves
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.2 0.2 0.2
+	map_Kd gfx\textures\leaves.png
+
+newmtl wood
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.36 0.41 0.43
+	map_Kd gfx\textures\wood.png
+
+newmtl leaves
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.2 0.2 0.2
+	map_Kd gfx\textures\leaves.png
+
+newmtl wood
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.36 0.41 0.43
+	map_Kd gfx\textures\wood.png
+
+newmtl leaves
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.2 0.2 0.2
+	map_Kd gfx\textures\leaves.png
+
+newmtl wood
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.36 0.41 0.43
+	map_Kd gfx\textures\wood.png
+
+newmtl leaves
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.2 0.2 0.2
+	map_Kd gfx\textures\leaves.png
+
+newmtl wood
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.36 0.41 0.43
+	map_Kd gfx\textures\wood.png
+
+newmtl leaves
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.2 0.2 0.2
+	map_Kd gfx\textures\leaves.png
+
+newmtl wood
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.36 0.41 0.43
+	map_Kd gfx\textures\wood.png
+
+newmtl leaves
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.2 0.2 0.2
+	map_Kd gfx\textures\leaves.png
+
+newmtl wood
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.36 0.41 0.43
+	map_Kd gfx\textures\wood.png
+
+newmtl leaves
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.2 0.2 0.2
+	map_Kd gfx\textures\leaves.png
+
+newmtl wood
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.36 0.41 0.43
+	map_Kd gfx\textures\wood.png
+
+newmtl leaves
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.2 0.2 0.2
+	map_Kd gfx\textures\leaves.png
+
+newmtl wood
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.36 0.41 0.43
+	map_Kd gfx\textures\wood.png
+
+newmtl leaves
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.2 0.2 0.2
+	map_Kd gfx\textures\leaves.png
+
+newmtl wood
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.36 0.41 0.43
+	map_Kd gfx\textures\wood.png
+
+newmtl leaves
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.2 0.2 0.2
+	map_Kd gfx\textures\leaves.png
+
+newmtl wood
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.36 0.41 0.43
+	map_Kd gfx\textures\wood.png
+
+newmtl leaves
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.2 0.2 0.2
+	map_Kd gfx\textures\leaves.png
+
+newmtl wood
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.36 0.41 0.43
+	map_Kd gfx\textures\wood.png
+
+newmtl leaves
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.2 0.2 0.2
+	map_Kd gfx\textures\leaves.png
+
+newmtl wood
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.36 0.41 0.43
+	map_Kd gfx\textures\wood.png
+
+newmtl leaves
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.2 0.2 0.2
+	map_Kd gfx\textures\leaves.png
+
+newmtl wood
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.36 0.41 0.43
+	map_Kd gfx\textures\wood.png
+
+newmtl leaves
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.2 0.2 0.2
+	map_Kd gfx\textures\leaves.png
+
+newmtl wood
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.36 0.41 0.43
+	map_Kd gfx\textures\wood.png
+
+newmtl leaves
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.2 0.2 0.2
+	map_Kd gfx\textures\leaves.png
+
+newmtl wood
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.36 0.41 0.43
+	map_Kd gfx\textures\wood.png
+
+newmtl leaves
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.2 0.2 0.2
+	map_Kd gfx\textures\leaves.png
+
+newmtl wood
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.36 0.41 0.43
+	map_Kd gfx\textures\wood.png
+
+newmtl leaves
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.2 0.2 0.2
+	map_Kd gfx\textures\leaves.png
+
+newmtl wood
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.36 0.41 0.43
+	map_Kd gfx\textures\wood.png
+
+newmtl leaves
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.2 0.2 0.2
+	map_Kd gfx\textures\leaves.png
+
+newmtl wood
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.36 0.41 0.43
+	map_Kd gfx\textures\wood.png
+
+newmtl leaves
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.2 0.2 0.2
+	map_Kd gfx\textures\leaves.png
+
+newmtl wood
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.36 0.41 0.43
+	map_Kd gfx\textures\wood.png
+
+newmtl leaves
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.2 0.2 0.2
+	map_Kd gfx\textures\leaves.png
+
+newmtl wood
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.36 0.41 0.43
+	map_Kd gfx\textures\wood.png
+
+newmtl leaves
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.2 0.2 0.2
+	map_Kd gfx\textures\leaves.png
+
+newmtl wood
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.36 0.41 0.43
+	map_Kd gfx\textures\wood.png
+
+newmtl leaves
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.2 0.2 0.2
+	map_Kd gfx\textures\leaves.png
+
+newmtl wood
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.36 0.41 0.43
+	map_Kd gfx\textures\wood.png
+
+newmtl leaves
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.2 0.2 0.2
+	map_Kd gfx\textures\leaves.png
+
+newmtl wood
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.36 0.41 0.43
+	map_Kd gfx\textures\wood.png
+
+newmtl leaves
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.2 0.2 0.2
+	map_Kd gfx\textures\leaves.png
+
+newmtl wood
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.36 0.41 0.43
+	map_Kd gfx\textures\wood.png
+
+newmtl leaves
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.2 0.2 0.2
+	map_Kd gfx\textures\leaves.png
+
+newmtl wood
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.36 0.41 0.43
+	map_Kd gfx\textures\wood.png
+
+newmtl leaves
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.2 0.2 0.2
+	map_Kd gfx\textures\leaves.png
+
+newmtl wood
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.36 0.41 0.43
+	map_Kd gfx\textures\wood.png
+
+newmtl leaves
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.2 0.2 0.2
+	map_Kd gfx\textures\leaves.png
+
+newmtl wood
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.36 0.41 0.43
+	map_Kd gfx\textures\wood.png
+
+newmtl leaves
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.2 0.2 0.2
+	map_Kd gfx\textures\leaves.png
+
+newmtl wood
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.36 0.41 0.43
+	map_Kd gfx\textures\wood.png
+
+newmtl leaves
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.2 0.2 0.2
+	map_Kd gfx\textures\leaves.png
+
+newmtl wood
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.36 0.41 0.43
+	map_Kd gfx\textures\wood.png
+
+newmtl leaves
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.2 0.2 0.2
+	map_Kd gfx\textures\leaves.png
+
+newmtl wood
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.36 0.41 0.43
+	map_Kd gfx\textures\wood.png
+
+newmtl leaves
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.2 0.2 0.2
+	map_Kd gfx\textures\leaves.png
+
+newmtl wood
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.36 0.41 0.43
+	map_Kd gfx\textures\wood.png
+
+newmtl leaves
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.2 0.2 0.2
+	map_Kd gfx\textures\leaves.png
+
+newmtl wood
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.36 0.41 0.43
+	map_Kd gfx\textures\wood.png
+
+newmtl leaves
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.2 0.2 0.2
+	map_Kd gfx\textures\leaves.png
+
+newmtl wood
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.36 0.41 0.43
+	map_Kd gfx\textures\wood.png
+
+newmtl leaves
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.2 0.2 0.2
+	map_Kd gfx\textures\leaves.png
+
+newmtl wood
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.36 0.41 0.43
+	map_Kd gfx\textures\wood.png
+
+newmtl leaves
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.2 0.2 0.2
+	map_Kd gfx\textures\leaves.png
+
+newmtl wood
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.36 0.41 0.43
+	map_Kd gfx\textures\wood.png
+
+newmtl leaves
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.2 0.2 0.2
+	map_Kd gfx\textures\leaves.png
+
+newmtl wood
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.36 0.41 0.43
+	map_Kd gfx\textures\wood.png
+
+newmtl leaves
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.2 0.2 0.2
+	map_Kd gfx\textures\leaves.png
+
+newmtl wood
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.36 0.41 0.43
+	map_Kd gfx\textures\wood.png
+
+newmtl leaves
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.2 0.2 0.2
+	map_Kd gfx\textures\leaves.png
+
+newmtl wood
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.36 0.41 0.43
+	map_Kd gfx\textures\wood.png
+
+newmtl leaves
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.2 0.2 0.2
+	map_Kd gfx\textures\leaves.png
+
+newmtl wood
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.36 0.41 0.43
+	map_Kd gfx\textures\wood.png
+
+newmtl leaves
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.2 0.2 0.2
+	map_Kd gfx\textures\leaves.png
+
+newmtl wood
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.36 0.41 0.43
+	map_Kd gfx\textures\wood.png
+
+newmtl leaves
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.2 0.2 0.2
+	map_Kd gfx\textures\leaves.png
+
+newmtl wood
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.36 0.41 0.43
+	map_Kd gfx\textures\wood.png
+
+newmtl leaves
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.2 0.2 0.2
+	map_Kd gfx\textures\leaves.png
+
+newmtl wood
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.36 0.41 0.43
+	map_Kd gfx\textures\wood.png
+
+newmtl leaves
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.2 0.2 0.2
+	map_Kd gfx\textures\leaves.png
+
+newmtl wood
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.36 0.41 0.43
+	map_Kd gfx\textures\wood.png
+
+newmtl leaves
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.2 0.2 0.2
+	map_Kd gfx\textures\leaves.png
+
+newmtl wood
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.36 0.41 0.43
+	map_Kd gfx\textures\wood.png
+
+newmtl leaves
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.2 0.2 0.2
+	map_Kd gfx\textures\leaves.png
+
+newmtl wood
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.36 0.41 0.43
+	map_Kd gfx\textures\wood.png
+
+newmtl leaves
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.2 0.2 0.2
+	map_Kd gfx\textures\leaves.png
+
+newmtl wood
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.36 0.41 0.43
+	map_Kd gfx\textures\wood.png
+
+newmtl leaves
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.2 0.2 0.2
+	map_Kd gfx\textures\leaves.png
+
+newmtl wood
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.36 0.41 0.43
+	map_Kd gfx\textures\wood.png
+
+newmtl leaves
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.2 0.2 0.2
+	map_Kd gfx\textures\leaves.png
+
+newmtl wood
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.36 0.41 0.43
+	map_Kd gfx\textures\wood.png
+
+newmtl leaves
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.2 0.2 0.2
+	map_Kd gfx\textures\leaves.png
+
+newmtl wood
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.36 0.41 0.43
+	map_Kd gfx\textures\wood.png
+
+newmtl leaves
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.2 0.2 0.2
+	map_Kd gfx\textures\leaves.png
+
+newmtl wood
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.36 0.41 0.43
+	map_Kd gfx\textures\wood.png
+
+newmtl leaves
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.2 0.2 0.2
+	map_Kd gfx\textures\leaves.png
+
+newmtl wood
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.36 0.41 0.43
+	map_Kd gfx\textures\wood.png
+
+newmtl leaves
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.2 0.2 0.2
+	map_Kd gfx\textures\leaves.png
+
+newmtl wood
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.36 0.41 0.43
+	map_Kd gfx\textures\wood.png
+
+newmtl leaves
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.2 0.2 0.2
+	map_Kd gfx\textures\leaves.png
+
+newmtl wood
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.36 0.41 0.43
+	map_Kd gfx\textures\wood.png
+
+newmtl leaves
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.2 0.2 0.2
+	map_Kd gfx\textures\leaves.png
+
+newmtl wood
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.36 0.41 0.43
+	map_Kd gfx\textures\wood.png
+
+newmtl leaves
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.2 0.2 0.2
+	map_Kd gfx\textures\leaves.png
+
+newmtl wood
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.36 0.41 0.43
+	map_Kd gfx\textures\wood.png
+
+newmtl leaves
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.2 0.2 0.2
+	map_Kd gfx\textures\leaves.png
+
+newmtl wood
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.36 0.41 0.43
+	map_Kd gfx\textures\wood.png
+
+newmtl leaves
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.2 0.2 0.2
+	map_Kd gfx\textures\leaves.png
+
+newmtl wood
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.36 0.41 0.43
+	map_Kd gfx\textures\wood.png
+
+newmtl leaves
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.2 0.2 0.2
+	map_Kd gfx\textures\leaves.png
+
+newmtl wood
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.36 0.41 0.43
+	map_Kd gfx\textures\wood.png
+
+newmtl leaves
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.2 0.2 0.2
+	map_Kd gfx\textures\leaves.png
+
+newmtl wood
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.36 0.41 0.43
+	map_Kd gfx\textures\wood.png
+
+newmtl leaves
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.2 0.2 0.2
+	map_Kd gfx\textures\leaves.png
+
+newmtl wood
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.36 0.41 0.43
+	map_Kd gfx\textures\wood.png
+
+newmtl leaves
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.2 0.2 0.2
+	map_Kd gfx\textures\leaves.png
+
+newmtl wood
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.36 0.41 0.43
+	map_Kd gfx\textures\wood.png
+
+newmtl leaves
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.2 0.2 0.2
+	map_Kd gfx\textures\leaves.png
+
+newmtl wood
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.36 0.41 0.43
+	map_Kd gfx\textures\wood.png
+
+newmtl leaves
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.2 0.2 0.2
+	map_Kd gfx\textures\leaves.png
+
+newmtl wood
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.36 0.41 0.43
+	map_Kd gfx\textures\wood.png
+
+newmtl leaves
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.2 0.2 0.2
+	map_Kd gfx\textures\leaves.png
+
+newmtl wood
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.36 0.41 0.43
+	map_Kd gfx\textures\wood.png
+
+newmtl leaves
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.2 0.2 0.2
+	map_Kd gfx\textures\leaves.png
+
+newmtl wood
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.36 0.41 0.43
+	map_Kd gfx\textures\wood.png
+
+newmtl leaves
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.2 0.2 0.2
+	map_Kd gfx\textures\leaves.png
+
+newmtl wood
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.36 0.41 0.43
+	map_Kd gfx\textures\wood.png
+
+newmtl leaves
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.2 0.2 0.2
+	map_Kd gfx\textures\leaves.png
+
+newmtl wood
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.36 0.41 0.43
+	map_Kd gfx\textures\wood.png
+
+newmtl leaves
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.2 0.2 0.2
+	map_Kd gfx\textures\leaves.png
+
+newmtl wood
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.36 0.41 0.43
+	map_Kd gfx\textures\wood.png
+
+newmtl leaves
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.2 0.2 0.2
+	map_Kd gfx\textures\leaves.png
+
+newmtl wood
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.36 0.41 0.43
+	map_Kd gfx\textures\wood.png
+
+newmtl leaves
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.2 0.2 0.2
+	map_Kd gfx\textures\leaves.png
+
+newmtl wood
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.36 0.41 0.43
+	map_Kd gfx\textures\wood.png
+
+newmtl leaves
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.2 0.2 0.2
+	map_Kd gfx\textures\leaves.png
+
+newmtl wood
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.36 0.41 0.43
+	map_Kd gfx\textures\wood.png
+
+newmtl leaves
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.2 0.2 0.2
+	map_Kd gfx\textures\leaves.png
+
+newmtl wood
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.36 0.41 0.43
+	map_Kd gfx\textures\wood.png
+
+newmtl leaves
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.2 0.2 0.2
+	map_Kd gfx\textures\leaves.png
+
+newmtl wood
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.36 0.41 0.43
+	map_Kd gfx\textures\wood.png
+
+newmtl leaves
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.2 0.2 0.2
+	map_Kd gfx\textures\leaves.png
+
+newmtl wood
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.36 0.41 0.43
+	map_Kd gfx\textures\wood.png
+
+newmtl leaves
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.2 0.2 0.2
+	map_Kd gfx\textures\leaves.png
+
+newmtl wood
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.36 0.41 0.43
+	map_Kd gfx\textures\wood.png
+
+newmtl leaves
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.2 0.2 0.2
+	map_Kd gfx\textures\leaves.png
+
+newmtl wood
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.36 0.41 0.43
+	map_Kd gfx\textures\wood.png
+
+newmtl leaves
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.2 0.2 0.2
+	map_Kd gfx\textures\leaves.png
+
+newmtl wood
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.36 0.41 0.43
+	map_Kd gfx\textures\wood.png
+
+newmtl leaves
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.2 0.2 0.2
+	map_Kd gfx\textures\leaves.png
+
+newmtl wood
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.36 0.41 0.43
+	map_Kd gfx\textures\wood.png
+
+newmtl leaves
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.2 0.2 0.2
+	map_Kd gfx\textures\leaves.png
+
+newmtl wood
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.36 0.41 0.43
+	map_Kd gfx\textures\wood.png
+
+newmtl leaves
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.2 0.2 0.2
+	map_Kd gfx\textures\leaves.png
+
+newmtl wood
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.36 0.41 0.43
+	map_Kd gfx\textures\wood.png
+
+newmtl leaves
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.2 0.2 0.2
+	map_Kd gfx\textures\leaves.png
+
+newmtl wood
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.36 0.41 0.43
+	map_Kd gfx\textures\wood.png
+
+newmtl leaves
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.2 0.2 0.2
+	map_Kd gfx\textures\leaves.png
+
+newmtl wood
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.36 0.41 0.43
+	map_Kd gfx\textures\wood.png
+
+newmtl leaves
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.2 0.2 0.2
+	map_Kd gfx\textures\leaves.png
+
+newmtl wood
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.36 0.41 0.43
+	map_Kd gfx\textures\wood.png
+
+newmtl leaves
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.2 0.2 0.2
+	map_Kd gfx\textures\leaves.png
+
+newmtl wood
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.36 0.41 0.43
+	map_Kd gfx\textures\wood.png
+
+newmtl leaves
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.2 0.2 0.2
+	map_Kd gfx\textures\leaves.png
+
+newmtl wood
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.36 0.41 0.43
+	map_Kd gfx\textures\wood.png
+
+newmtl leaves
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.2 0.2 0.2
+	map_Kd gfx\textures\leaves.png
+
+newmtl wood
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.36 0.41 0.43
+	map_Kd gfx\textures\wood.png
+
+newmtl leaves
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.2 0.2 0.2
+	map_Kd gfx\textures\leaves.png
+
+newmtl wood
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.36 0.41 0.43
+	map_Kd gfx\textures\wood.png
+
+newmtl leaves
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.2 0.2 0.2
+	map_Kd gfx\textures\leaves.png
+
+newmtl wood
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.36 0.41 0.43
+	map_Kd gfx\textures\wood.png
+
+newmtl leaves
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.2 0.2 0.2
+	map_Kd gfx\textures\leaves.png
+
+newmtl wood
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.36 0.41 0.43
+	map_Kd gfx\textures\wood.png
+
+newmtl leaves
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.2 0.2 0.2
+	map_Kd gfx\textures\leaves.png
+
+newmtl wood
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.36 0.41 0.43
+	map_Kd gfx\textures\wood.png
+
+newmtl leaves
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.2 0.2 0.2
+	map_Kd gfx\textures\leaves.png
+
+newmtl wood
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.36 0.41 0.43
+	map_Kd gfx\textures\wood.png
+
+newmtl leaves
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.2 0.2 0.2
+	map_Kd gfx\textures\leaves.png
+
+newmtl wood
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.36 0.41 0.43
+	map_Kd gfx\textures\wood.png
+
+newmtl leaves
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.2 0.2 0.2
+	map_Kd gfx\textures\leaves.png
+
+newmtl wood
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.36 0.41 0.43
+	map_Kd gfx\textures\wood.png
+
+newmtl leaves
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.2 0.2 0.2
+	map_Kd gfx\textures\leaves.png
+
+newmtl wood
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.36 0.41 0.43
+	map_Kd gfx\textures\wood.png
+
+newmtl leaves
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.2 0.2 0.2
+	map_Kd gfx\textures\leaves.png
+
+newmtl wood
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.36 0.41 0.43
+	map_Kd gfx\textures\wood.png
+
+newmtl leaves
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.2 0.2 0.2
+	map_Kd gfx\textures\leaves.png
+
+newmtl wood
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.36 0.41 0.43
+	map_Kd gfx\textures\wood.png
+
+newmtl leaves
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.2 0.2 0.2
+	map_Kd gfx\textures\leaves.png
+
+newmtl wood
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.36 0.41 0.43
+	map_Kd gfx\textures\wood.png
+
+newmtl leaves
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.2 0.2 0.2
+	map_Kd gfx\textures\leaves.png
+
+newmtl wood
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.36 0.41 0.43
+	map_Kd gfx\textures\wood.png
+
+newmtl leaves
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.2 0.2 0.2
+	map_Kd gfx\textures\leaves.png
+
+newmtl wood
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.36 0.41 0.43
+	map_Kd gfx\textures\wood.png
+
+newmtl leaves
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.2 0.2 0.2
+	map_Kd gfx\textures\leaves.png
+
+newmtl wood
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.36 0.41 0.43
+	map_Kd gfx\textures\wood.png
+
+newmtl leaves
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.2 0.2 0.2
+	map_Kd gfx\textures\leaves.png
+
+newmtl wood
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.36 0.41 0.43
+	map_Kd gfx\textures\wood.png
+
+newmtl leaves
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.2 0.2 0.2
+	map_Kd gfx\textures\leaves.png
+
+newmtl wood
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.36 0.41 0.43
+	map_Kd gfx\textures\wood.png
+
+newmtl leaves
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.2 0.2 0.2
+	map_Kd gfx\textures\leaves.png
+
+newmtl wood
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.36 0.41 0.43
+	map_Kd gfx\textures\wood.png
+
+newmtl leaves
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.2 0.2 0.2
+	map_Kd gfx\textures\leaves.png
+
+newmtl wood
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.36 0.41 0.43
+	map_Kd gfx\textures\wood.png
+
+newmtl leaves
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.2 0.2 0.2
+	map_Kd gfx\textures\leaves.png
+
+newmtl wood
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.36 0.41 0.43
+	map_Kd gfx\textures\wood.png
+
+newmtl leaves
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.2 0.2 0.2
+	map_Kd gfx\textures\leaves.png
+
+newmtl wood
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.36 0.41 0.43
+	map_Kd gfx\textures\wood.png
+
+newmtl leaves
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.2 0.2 0.2
+	map_Kd gfx\textures\leaves.png
+
+newmtl wood
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.36 0.41 0.43
+	map_Kd gfx\textures\wood.png
+
+newmtl leaves
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.2 0.2 0.2
+	map_Kd gfx\textures\leaves.png
+
+newmtl wood
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.36 0.41 0.43
+	map_Kd gfx\textures\wood.png
+
+newmtl leaves
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.2 0.2 0.2
+	map_Kd gfx\textures\leaves.png
+
+newmtl wood
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.36 0.41 0.43
+	map_Kd gfx\textures\wood.png
+
+newmtl leaves
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.2 0.2 0.2
+	map_Kd gfx\textures\leaves.png
+
+newmtl wood
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.36 0.41 0.43
+	map_Kd gfx\textures\wood.png
+
+newmtl leaves
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.2 0.2 0.2
+	map_Kd gfx\textures\leaves.png
+
+newmtl wood
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.36 0.41 0.43
+	map_Kd gfx\textures\wood.png
+
+newmtl leaves
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.2 0.2 0.2
+	map_Kd gfx\textures\leaves.png
+
+newmtl wood
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.36 0.41 0.43
+	map_Kd gfx\textures\wood.png
+
+newmtl leaves
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.2 0.2 0.2
+	map_Kd gfx\textures\leaves.png
+
+newmtl wood
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.36 0.41 0.43
+	map_Kd gfx\textures\wood.png
+
+newmtl leaves
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.2 0.2 0.2
+	map_Kd gfx\textures\leaves.png
+
+newmtl wood
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.36 0.41 0.43
+	map_Kd gfx\textures\wood.png
+
+newmtl leaves
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.2 0.2 0.2
+	map_Kd gfx\textures\leaves.png
+
+newmtl wood
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.36 0.41 0.43
+	map_Kd gfx\textures\wood.png
+
+newmtl leaves
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.2 0.2 0.2
+	map_Kd gfx\textures\leaves.png
+
+newmtl wood
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.36 0.41 0.43
+	map_Kd gfx\textures\wood.png
+
+newmtl leaves
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.2 0.2 0.2
+	map_Kd gfx\textures\leaves.png
+
+newmtl wood
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.36 0.41 0.43
+	map_Kd gfx\textures\wood.png
+
+newmtl leaves
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.2 0.2 0.2
+	map_Kd gfx\textures\leaves.png
+
+newmtl wood
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.36 0.41 0.43
+	map_Kd gfx\textures\wood.png
+
+newmtl leaves
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.2 0.2 0.2
+	map_Kd gfx\textures\leaves.png
+
+newmtl wood
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.36 0.41 0.43
+	map_Kd gfx\textures\wood.png
+
+newmtl leaves
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.2 0.2 0.2
+	map_Kd gfx\textures\leaves.png
+
+newmtl wood
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.36 0.41 0.43
+	map_Kd gfx\textures\wood.png
+
+newmtl leaves
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.2 0.2 0.2
+	map_Kd gfx\textures\leaves.png
+
+newmtl wood
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.36 0.41 0.43
+	map_Kd gfx\textures\wood.png
+
+newmtl leaves
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.2 0.2 0.2
+	map_Kd gfx\textures\leaves.png
+
+newmtl wood
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.36 0.41 0.43
+	map_Kd gfx\textures\wood.png
+
+newmtl leaves
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.2 0.2 0.2
+	map_Kd gfx\textures\leaves.png
+
+newmtl wood
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.36 0.41 0.43
+	map_Kd gfx\textures\wood.png
+
+newmtl leaves
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.2 0.2 0.2
+	map_Kd gfx\textures\leaves.png
+
+newmtl wood
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.36 0.41 0.43
+	map_Kd gfx\textures\wood.png
+
+newmtl leaves
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.2 0.2 0.2
+	map_Kd gfx\textures\leaves.png
+
+newmtl wood
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.36 0.41 0.43
+	map_Kd gfx\textures\wood.png
+
+newmtl leaves
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.2 0.2 0.2
+	map_Kd gfx\textures\leaves.png
+
+newmtl wood
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.36 0.41 0.43
+	map_Kd gfx\textures\wood.png
+
+newmtl leaves
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.2 0.2 0.2
+	map_Kd gfx\textures\leaves.png
+
+newmtl wood
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.36 0.41 0.43
+	map_Kd gfx\textures\wood.png
+
+newmtl leaves
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.2 0.2 0.2
+	map_Kd gfx\textures\leaves.png
+
+newmtl wood
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.36 0.41 0.43
+	map_Kd gfx\textures\wood.png
+
+newmtl leaves
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.2 0.2 0.2
+	map_Kd gfx\textures\leaves.png
+
+newmtl wood
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.36 0.41 0.43
+	map_Kd gfx\textures\wood.png
+
+newmtl leaves
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.2 0.2 0.2
+	map_Kd gfx\textures\leaves.png
+
+newmtl wood
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.36 0.41 0.43
+	map_Kd gfx\textures\wood.png
+
+newmtl leaves
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.2 0.2 0.2
+	map_Kd gfx\textures\leaves.png
+
+newmtl wood
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.36 0.41 0.43
+	map_Kd gfx\textures\wood.png
+
+newmtl leaves
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.2 0.2 0.2
+	map_Kd gfx\textures\leaves.png
+
+newmtl wood
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.36 0.41 0.43
+	map_Kd gfx\textures\wood.png
+
+newmtl leaves
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.2 0.2 0.2
+	map_Kd gfx\textures\leaves.png
+
+newmtl wood
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.36 0.41 0.43
+	map_Kd gfx\textures\wood.png
+
+newmtl leaves
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.2 0.2 0.2
+	map_Kd gfx\textures\leaves.png
+
+newmtl wood
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.36 0.41 0.43
+	map_Kd gfx\textures\wood.png
+
+newmtl leaves
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.2 0.2 0.2
+	map_Kd gfx\textures\leaves.png
+
+newmtl wood
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.36 0.41 0.43
+	map_Kd gfx\textures\wood.png
+
+newmtl leaves
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.2 0.2 0.2
+	map_Kd gfx\textures\leaves.png
+
+newmtl wood
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.36 0.41 0.43
+	map_Kd gfx\textures\wood.png
+
+newmtl leaves
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.2 0.2 0.2
+	map_Kd gfx\textures\leaves.png
+
+newmtl wood
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.36 0.41 0.43
+	map_Kd gfx\textures\wood.png
+
+newmtl leaves
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.2 0.2 0.2
+	map_Kd gfx\textures\leaves.png
+
+newmtl wood
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.36 0.41 0.43
+	map_Kd gfx\textures\wood.png
+
+newmtl leaves
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.2 0.2 0.2
+	map_Kd gfx\textures\leaves.png
+
+newmtl wood
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.36 0.41 0.43
+	map_Kd gfx\textures\wood.png
+
+newmtl leaves
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.2 0.2 0.2
+	map_Kd gfx\textures\leaves.png
+
+newmtl wood
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.36 0.41 0.43
+	map_Kd gfx\textures\wood.png
+
+newmtl leaves
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.2 0.2 0.2
+	map_Kd gfx\textures\leaves.png
+
+newmtl wood
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.36 0.41 0.43
+	map_Kd gfx\textures\wood.png
+
+newmtl leaves
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.2 0.2 0.2
+	map_Kd gfx\textures\leaves.png
+
+newmtl wood
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.36 0.41 0.43
+	map_Kd gfx\textures\wood.png
+
+newmtl leaves
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.2 0.2 0.2
+	map_Kd gfx\textures\leaves.png
+
+newmtl wood
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.36 0.41 0.43
+	map_Kd gfx\textures\wood.png
+
+newmtl leaves
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.2 0.2 0.2
+	map_Kd gfx\textures\leaves.png
+
+newmtl wood
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.36 0.41 0.43
+	map_Kd gfx\textures\wood.png
+
+newmtl leaves
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.2 0.2 0.2
+	map_Kd gfx\textures\leaves.png
+
+newmtl wood
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.36 0.41 0.43
+	map_Kd gfx\textures\wood.png
+
+newmtl leaves
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.2 0.2 0.2
+	map_Kd gfx\textures\leaves.png
+
+newmtl wood
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.36 0.41 0.43
+	map_Kd gfx\textures\wood.png
+
+newmtl leaves
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.2 0.2 0.2
+	map_Kd gfx\textures\leaves.png
+
+newmtl wood
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.36 0.41 0.43
+	map_Kd gfx\textures\wood.png
+
+newmtl leaves
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.2 0.2 0.2
+	map_Kd gfx\textures\leaves.png
+
+newmtl wood
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.36 0.41 0.43
+	map_Kd gfx\textures\wood.png
+
+newmtl leaves
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.2 0.2 0.2
+	map_Kd gfx\textures\leaves.png
+
+newmtl wood
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.36 0.41 0.43
+	map_Kd gfx\textures\wood.png
+
+newmtl leaves
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.2 0.2 0.2
+	map_Kd gfx\textures\leaves.png
+
+newmtl wood
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.36 0.41 0.43
+	map_Kd gfx\textures\wood.png
+
+newmtl leaves
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.2 0.2 0.2
+	map_Kd gfx\textures\leaves.png
+
+newmtl wood
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.36 0.41 0.43
+	map_Kd gfx\textures\wood.png
+
+newmtl leaves
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.2 0.2 0.2
+	map_Kd gfx\textures\leaves.png
+
+newmtl wood
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.36 0.41 0.43
+	map_Kd gfx\textures\wood.png
+
+newmtl leaves
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.2 0.2 0.2
+	map_Kd gfx\textures\leaves.png
+
+newmtl wood
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.36 0.41 0.43
+	map_Kd gfx\textures\wood.png
+
+newmtl leaves
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.2 0.2 0.2
+	map_Kd gfx\textures\leaves.png
+
+newmtl wood
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.36 0.41 0.43
+	map_Kd gfx\textures\wood.png
+
+newmtl leaves
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.2 0.2 0.2
+	map_Kd gfx\textures\leaves.png
+
+newmtl wood
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.36 0.41 0.43
+	map_Kd gfx\textures\wood.png
+
+newmtl leaves
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.2 0.2 0.2
+	map_Kd gfx\textures\leaves.png
+
+newmtl wood
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.36 0.41 0.43
+	map_Kd gfx\textures\wood.png
+
+newmtl leaves
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.2 0.2 0.2
+	map_Kd gfx\textures\leaves.png
+
+newmtl wood
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.36 0.41 0.43
+	map_Kd gfx\textures\wood.png
+
+newmtl leaves
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.2 0.2 0.2
+	map_Kd gfx\textures\leaves.png
+
+newmtl wood
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.36 0.41 0.43
+	map_Kd gfx\textures\wood.png
+
+newmtl leaves
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.2 0.2 0.2
+	map_Kd gfx\textures\leaves.png
+
+newmtl wood
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.36 0.41 0.43
+	map_Kd gfx\textures\wood.png
+
+newmtl leaves
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.2 0.2 0.2
+	map_Kd gfx\textures\leaves.png
+
+newmtl wood
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.36 0.41 0.43
+	map_Kd gfx\textures\wood.png
+
+newmtl leaves
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.2 0.2 0.2
+	map_Kd gfx\textures\leaves.png
+
+newmtl wood
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.36 0.41 0.43
+	map_Kd gfx\textures\wood.png
+
+newmtl leaves
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.2 0.2 0.2
+	map_Kd gfx\textures\leaves.png
+
+newmtl wood
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.36 0.41 0.43
+	map_Kd gfx\textures\wood.png
+
+newmtl leaves
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.2 0.2 0.2
+	map_Kd gfx\textures\leaves.png
+
+newmtl wood
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.36 0.41 0.43
+	map_Kd gfx\textures\wood.png
+
+newmtl leaves
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.2 0.2 0.2
+	map_Kd gfx\textures\leaves.png
+
+newmtl wood
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.36 0.41 0.43
+	map_Kd gfx\textures\wood.png
+
+newmtl leaves
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.2 0.2 0.2
+	map_Kd gfx\textures\leaves.png
+
+newmtl wood
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.36 0.41 0.43
+	map_Kd gfx\textures\wood.png
+
+newmtl leaves
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.2 0.2 0.2
+	map_Kd gfx\textures\leaves.png
+
+newmtl wood
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.36 0.41 0.43
+	map_Kd gfx\textures\wood.png
+
+newmtl leaves
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.2 0.2 0.2
+	map_Kd gfx\textures\leaves.png
+
+newmtl wood
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.36 0.41 0.43
+	map_Kd gfx\textures\wood.png
+
+newmtl leaves
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.2 0.2 0.2
+	map_Kd gfx\textures\leaves.png
+
+newmtl wood
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.36 0.41 0.43
+	map_Kd gfx\textures\wood.png
+
+newmtl leaves
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.2 0.2 0.2
+	map_Kd gfx\textures\leaves.png
+
+newmtl wood
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.36 0.41 0.43
+	map_Kd gfx\textures\wood.png
+
+newmtl leaves
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.2 0.2 0.2
+	map_Kd gfx\textures\leaves.png
+
+newmtl wood
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.36 0.41 0.43
+	map_Kd gfx\textures\wood.png
+
+newmtl leaves
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.2 0.2 0.2
+	map_Kd gfx\textures\leaves.png
+
+newmtl wood
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.36 0.41 0.43
+	map_Kd gfx\textures\wood.png
+
+newmtl leaves
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.2 0.2 0.2
+	map_Kd gfx\textures\leaves.png
+
+newmtl wood
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.36 0.41 0.43
+	map_Kd gfx\textures\wood.png
+
+newmtl leaves
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.2 0.2 0.2
+	map_Kd gfx\textures\leaves.png
+
+newmtl wood
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.36 0.41 0.43
+	map_Kd gfx\textures\wood.png
+
+newmtl leaves
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.2 0.2 0.2
+	map_Kd gfx\textures\leaves.png
+
+newmtl wood
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.36 0.41 0.43
+	map_Kd gfx\textures\wood.png
+
+newmtl leaves
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.2 0.2 0.2
+	map_Kd gfx\textures\leaves.png
+
+newmtl wood
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.36 0.41 0.43
+	map_Kd gfx\textures\wood.png
+
+newmtl leaves
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.2 0.2 0.2
+	map_Kd gfx\textures\leaves.png
+
+newmtl wood
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.36 0.41 0.43
+	map_Kd gfx\textures\wood.png
+
+newmtl leaves
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.2 0.2 0.2
+	map_Kd gfx\textures\leaves.png
+
+newmtl wood
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.36 0.41 0.43
+	map_Kd gfx\textures\wood.png
+
+newmtl leaves
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.2 0.2 0.2
+	map_Kd gfx\textures\leaves.png
+
+newmtl wood
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.36 0.41 0.43
+	map_Kd gfx\textures\wood.png
+
+newmtl leaves
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.2 0.2 0.2
+	map_Kd gfx\textures\leaves.png
+
+newmtl wood
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.36 0.41 0.43
+	map_Kd gfx\textures\wood.png
+
+newmtl leaves
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.2 0.2 0.2
+	map_Kd gfx\textures\leaves.png
+
+newmtl wood
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.36 0.41 0.43
+	map_Kd gfx\textures\wood.png
+
+newmtl leaves
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.2 0.2 0.2
+	map_Kd gfx\textures\leaves.png
+
+newmtl wood
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.36 0.41 0.43
+	map_Kd gfx\textures\wood.png
+
+newmtl leaves
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.2 0.2 0.2
+	map_Kd gfx\textures\leaves.png
+
+newmtl wood
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.36 0.41 0.43
+	map_Kd gfx\textures\wood.png
+
+newmtl leaves
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.2 0.2 0.2
+	map_Kd gfx\textures\leaves.png
+
+newmtl wood
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.36 0.41 0.43
+	map_Kd gfx\textures\wood.png
+
+newmtl leaves
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.2 0.2 0.2
+	map_Kd gfx\textures\leaves.png
+
+newmtl wood
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.36 0.41 0.43
+	map_Kd gfx\textures\wood.png
+
+newmtl leaves
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.2 0.2 0.2
+	map_Kd gfx\textures\leaves.png
+
+newmtl wood
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.36 0.41 0.43
+	map_Kd gfx\textures\wood.png
+
+newmtl leaves
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.2 0.2 0.2
+	map_Kd gfx\textures\leaves.png
+
+newmtl wood
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.36 0.41 0.43
+	map_Kd gfx\textures\wood.png
+
+newmtl leaves
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.2 0.2 0.2
+	map_Kd gfx\textures\leaves.png
+
+newmtl wood
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.36 0.41 0.43
+	map_Kd gfx\textures\wood.png
+
+newmtl leaves
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.2 0.2 0.2
+	map_Kd gfx\textures\leaves.png
+
+newmtl wood
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.36 0.41 0.43
+	map_Kd gfx\textures\wood.png
+
+newmtl leaves
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.2 0.2 0.2
+	map_Kd gfx\textures\leaves.png
+
+newmtl wood
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.36 0.41 0.43
+	map_Kd gfx\textures\wood.png
+
+newmtl leaves
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.2 0.2 0.2
+	map_Kd gfx\textures\leaves.png
+
+newmtl wood
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.36 0.41 0.43
+	map_Kd gfx\textures\wood.png
+
+newmtl leaves
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.2 0.2 0.2
+	map_Kd gfx\textures\leaves.png
+
+newmtl wood
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.36 0.41 0.43
+	map_Kd gfx\textures\wood.png
+
+newmtl leaves
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.2 0.2 0.2
+	map_Kd gfx\textures\leaves.png
+
+newmtl wood
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.36 0.41 0.43
+	map_Kd gfx\textures\wood.png
+
+newmtl leaves
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.2 0.2 0.2
+	map_Kd gfx\textures\leaves.png
+
+newmtl wood
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.36 0.41 0.43
+	map_Kd gfx\textures\wood.png
+
+newmtl leaves
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.2 0.2 0.2
+	map_Kd gfx\textures\leaves.png
+
+newmtl wood
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.36 0.41 0.43
+	map_Kd gfx\textures\wood.png
+
+newmtl leaves
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.2 0.2 0.2
+	map_Kd gfx\textures\leaves.png
+
+newmtl wood
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.36 0.41 0.43
+	map_Kd gfx\textures\wood.png
+
+newmtl leaves
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.2 0.2 0.2
+	map_Kd gfx\textures\leaves.png
+
+newmtl wood
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.36 0.41 0.43
+	map_Kd gfx\textures\wood.png
+
+newmtl leaves
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.2 0.2 0.2
+	map_Kd gfx\textures\leaves.png
+
+newmtl wood
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.36 0.41 0.43
+	map_Kd gfx\textures\wood.png
+
+newmtl leaves
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.2 0.2 0.2
+	map_Kd gfx\textures\leaves.png
+
+newmtl wood
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.36 0.41 0.43
+	map_Kd gfx\textures\wood.png
+
+newmtl leaves
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.2 0.2 0.2
+	map_Kd gfx\textures\leaves.png
+
+newmtl wood
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.36 0.41 0.43
+	map_Kd gfx\textures\wood.png
+
+newmtl leaves
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.2 0.2 0.2
+	map_Kd gfx\textures\leaves.png
+
+newmtl wood
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.36 0.41 0.43
+	map_Kd gfx\textures\wood.png
+
+newmtl leaves
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.2 0.2 0.2
+	map_Kd gfx\textures\leaves.png
+
+newmtl wood
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.36 0.41 0.43
+	map_Kd gfx\textures\wood.png
+
+newmtl leaves
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.2 0.2 0.2
+	map_Kd gfx\textures\leaves.png
+
+newmtl wood
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.36 0.41 0.43
+	map_Kd gfx\textures\wood.png
+
+newmtl leaves
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.2 0.2 0.2
+	map_Kd gfx\textures\leaves.png
+
+newmtl wood
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.36 0.41 0.43
+	map_Kd gfx\textures\wood.png
+
+newmtl leaves
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.2 0.2 0.2
+	map_Kd gfx\textures\leaves.png
+
+newmtl wood
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.36 0.41 0.43
+	map_Kd gfx\textures\wood.png
+
+newmtl leaves
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.2 0.2 0.2
+	map_Kd gfx\textures\leaves.png
+
+newmtl wood
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.36 0.41 0.43
+	map_Kd gfx\textures\wood.png
+
+newmtl leaves
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.2 0.2 0.2
+	map_Kd gfx\textures\leaves.png
+
+newmtl wood
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.36 0.41 0.43
+	map_Kd gfx\textures\wood.png
+
+newmtl leaves
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.2 0.2 0.2
+	map_Kd gfx\textures\leaves.png
+
+newmtl wood
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.36 0.41 0.43
+	map_Kd gfx\textures\wood.png
+
+newmtl leaves
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.2 0.2 0.2
+	map_Kd gfx\textures\leaves.png
+
+newmtl wood
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.36 0.41 0.43
+	map_Kd gfx\textures\wood.png
+
+newmtl leaves
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.2 0.2 0.2
+	map_Kd gfx\textures\leaves.png
+
+newmtl wood
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.36 0.41 0.43
+	map_Kd gfx\textures\wood.png
+
+newmtl leaves
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.2 0.2 0.2
+	map_Kd gfx\textures\leaves.png
+
+newmtl wood
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.36 0.41 0.43
+	map_Kd gfx\textures\wood.png
+
+newmtl leaves
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.2 0.2 0.2
+	map_Kd gfx\textures\leaves.png
+
+newmtl wood
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.36 0.41 0.43
+	map_Kd gfx\textures\wood.png
+
+newmtl leaves
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.2 0.2 0.2
+	map_Kd gfx\textures\leaves.png
+
+newmtl wood
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.36 0.41 0.43
+	map_Kd gfx\textures\wood.png
+
+newmtl leaves
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.2 0.2 0.2
+	map_Kd gfx\textures\leaves.png
+
+newmtl wood
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.36 0.41 0.43
+	map_Kd gfx\textures\wood.png
+
+newmtl leaves
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.2 0.2 0.2
+	map_Kd gfx\textures\leaves.png
+
+newmtl wood
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.36 0.41 0.43
+	map_Kd gfx\textures\wood.png
+
+newmtl leaves
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.2 0.2 0.2
+	map_Kd gfx\textures\leaves.png
+
+newmtl wood
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.36 0.41 0.43
+	map_Kd gfx\textures\wood.png
+
+newmtl leaves
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.2 0.2 0.2
+	map_Kd gfx\textures\leaves.png
+
+newmtl wood
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.36 0.41 0.43
+	map_Kd gfx\textures\wood.png
+
+newmtl leaves
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.2 0.2 0.2
+	map_Kd gfx\textures\leaves.png
+
+newmtl wood
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.36 0.41 0.43
+	map_Kd gfx\textures\wood.png
+
+newmtl leaves
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.2 0.2 0.2
+	map_Kd gfx\textures\leaves.png
+
+newmtl wood
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.36 0.41 0.43
+	map_Kd gfx\textures\wood.png
+
+newmtl leaves
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.2 0.2 0.2
+	map_Kd gfx\textures\leaves.png
+
+newmtl wood
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.36 0.41 0.43
+	map_Kd gfx\textures\wood.png
+
+newmtl leaves
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.2 0.2 0.2
+	map_Kd gfx\textures\leaves.png
+
+newmtl wood
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.36 0.41 0.43
+	map_Kd gfx\textures\wood.png
+
+newmtl leaves
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.2 0.2 0.2
+	map_Kd gfx\textures\leaves.png
+
+newmtl wood
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.36 0.41 0.43
+	map_Kd gfx\textures\wood.png
+
+newmtl leaves
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.2 0.2 0.2
+	map_Kd gfx\textures\leaves.png
+
+newmtl wood
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.36 0.41 0.43
+	map_Kd gfx\textures\wood.png
+
+newmtl leaves
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.2 0.2 0.2
+	map_Kd gfx\textures\leaves.png
+
+newmtl wood
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.36 0.41 0.43
+	map_Kd gfx\textures\wood.png
+
+newmtl leaves
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.2 0.2 0.2
+	map_Kd gfx\textures\leaves.png
+
+newmtl wood
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.36 0.41 0.43
+	map_Kd gfx\textures\wood.png
+
+newmtl leaves
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.2 0.2 0.2
+	map_Kd gfx\textures\leaves.png
+
+newmtl wood
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.36 0.41 0.43
+	map_Kd gfx\textures\wood.png
+
+newmtl leaves
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.2 0.2 0.2
+	map_Kd gfx\textures\leaves.png
+
+newmtl wood
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.36 0.41 0.43
+	map_Kd gfx\textures\wood.png
+
+newmtl leaves
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.2 0.2 0.2
+	map_Kd gfx\textures\leaves.png
+
+newmtl wood
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.36 0.41 0.43
+	map_Kd gfx\textures\wood.png
+
+newmtl leaves
+	Ns 1
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 0.0 0.0 0.0
+	Ka 0.2 0.2 0.2
+	map_Kd gfx\textures\leaves.png
+

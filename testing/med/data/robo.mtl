@@ -1,0 +1,11 @@
+#Produced by Art of Illusion 2.6.1, Thu Nov 20 11:14:22 CST 2008
+newmtl Default_Texture
+Kd 1 1 1
+Ks 0 0 0
+Ka 0 0 0
+illum 1
+newmtl visor
+Kd 0.3 0.3 0.3
+Ks 0 0 0
+Ka 0 0 0
+illum 1
