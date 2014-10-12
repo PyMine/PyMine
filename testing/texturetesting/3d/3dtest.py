@@ -208,6 +208,10 @@ def run():
             rotation_direction.x = +1.0
         elif pressed[K_DOWN]:
             rotation_direction.x = -1.0
+        if pressed[K_z]:
+            rotation_direction.z = -1.0
+        elif pressed[K_x]:
+            rotation_direction.z = +1.0
         if pressed[K_a]:
             movement_direction.x = -1.0
         elif pressed[K_d]:
