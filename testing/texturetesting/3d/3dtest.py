@@ -94,12 +94,16 @@ class Cube(object):
 
 class Map(object):
     
-    def __init__(self):
+    def __init__(self,map_file):
         
-        map_surface = pygame.image.load("map.png")
-        map_surface.lock()
+        self.map_file = map_file
         
-        w, h = map_surface.get_size()
+        
+        map_surface = pygame.image.load(self.map_file)
+        self.map_surface = map_surface
+        self.map_surface.lock()
+        
+        w, h = self.map_surface.get_size()
         
         self.cubes = []
         
@@ -107,7 +111,7 @@ class Map(object):
         for y in range(h):            
             for x in range(w):
                                 
-                r, g, b, a = map_surface.get_at((x, y))
+                r, g, b, a = self.map_surface.get_at((x, y))
                 
                 if (r, g, b) != (255, 255, 255):
                     
@@ -117,7 +121,7 @@ class Map(object):
                     self.cubes.append(cube)                    
                 
         
-        map_surface.unlock()
+        self.map_surface.unlock()
     
         self.display_list = None
     
@@ -156,7 +160,11 @@ def run():
     glMaterial(GL_FRONT, GL_DIFFUSE, (1.0, 1.0, 1.0, 1.0))
 
     # This object renders the 'map'
-    map = Map()        
+    current_dir = os.path.join(os.path.abspath(''))
+    testing_dir = os.path.join(current_dir,"testing","texturetesting","3d")
+    map_file = os.path.join(testing_dir,"map.png")
+    map = Map(map_file)
+    print(map.map_file)
 
     # Camera transform matrix
     camera_matrix = Matrix44()
@@ -180,7 +188,7 @@ def run():
         glClear(GL_COLOR_BUFFER_BIT | GL_DEPTH_BUFFER_BIT);
                         
         time_passed = clock.tick()
-        time_passed_seconds = time_passed / 1000.
+        time_passed_seconds = time_passed / 1000.0
         
         pressed = pygame.key.get_pressed()
         
@@ -198,9 +206,9 @@ def run():
         elif pressed[K_DOWN]:
             rotation_direction.x = -1.0
         if pressed[K_a]:
-            rotation_direction.z = -1.0
+            movement_direction.x = -1.0
         elif pressed[K_d]:
-            rotation_direction.z = +1.0            
+            movement_direction.x = +1.0
         if pressed[K_w]:
             movement_direction.z = -1.0
         elif pressed[K_s]:
@@ -208,19 +216,22 @@ def run():
         
         # Calculate rotation matrix and multiply by camera matrix    
         rotation = rotation_direction * rotation_speed * time_passed_seconds
-        rotation_matrix = Matrix44.xyz_rotation(*rotation)        
+        rotation_matrix = Matrix44.xyz_rotation(*rotation)
         camera_matrix *= rotation_matrix
         
         # Calcluate movment and add it to camera matrix translate
         heading = Vector3(camera_matrix.forward)
-        movement = heading * movement_direction.z * movement_speed                    
-        camera_matrix.translate += movement * time_passed_seconds
+        heading_right = Vector3(camera_matrix.right)
+        movement_x = heading_right * movement_direction.x * movement_speed
+        movement_y = heading * movement_direction.y * movement_speed
+        movement_z = heading * movement_direction.z * movement_speed
+        camera_matrix.translate += (movement_z * time_passed_seconds) + (movement_y * time_passed_seconds) + (movement_x * time_passed_seconds)
         
         # Upload the inverse camera matrix to OpenGL
         glLoadMatrixd(camera_matrix.get_inverse().to_opengl())
                 
         # Light must be transformed as well
-        glLight(GL_LIGHT0, GL_POSITION,  (0, 1.5, 1, 0)) 
+        glLight(GL_LIGHT0, GL_POSITION,  (0, 1.5, 1, 0))
                 
         # Render the map
         map.render()
