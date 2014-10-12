@@ -222,8 +222,9 @@ def run():
         # Calcluate movment and add it to camera matrix translate
         heading = Vector3(camera_matrix.forward)
         heading_right = Vector3(camera_matrix.right)
+        heading_top = Vector3(camera_matrix.top)
         movement_x = heading_right * movement_direction.x * movement_speed
-        movement_y = heading * movement_direction.y * movement_speed
+        movement_y = heading_top * movement_direction.y * movement_speed
         movement_z = heading * movement_direction.z * movement_speed
         camera_matrix.translate += (movement_z * time_passed_seconds) + (movement_y * time_passed_seconds) + (movement_x * time_passed_seconds)
         
