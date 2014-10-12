@@ -161,7 +161,10 @@ def run():
 
     # This object renders the 'map'
     current_dir = os.path.join(os.path.abspath(''))
-    testing_dir = os.path.join(current_dir,"testing","texturetesting","3d")
+    if not "testing" in current_dir:
+        testing_dir = os.path.join(current_dir,"testing","texturetesting","3d")
+    else:
+        testing_dir = current_dir
     map_file = os.path.join(testing_dir,"map.png")
     map = Map(map_file)
     print(map.map_file)
