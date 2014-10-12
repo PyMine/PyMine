@@ -10,7 +10,7 @@ from objects.vector3 import *
 
 from math import radians 
 
-SCREEN_SIZE = (800, 600)
+SCREEN_SIZE = (1920, 1200)
 
 def resize(width, height):
     glViewport(0, 0, width, height)
